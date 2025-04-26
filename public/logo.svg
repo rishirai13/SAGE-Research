@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Graduation Cap -->
+  <polygon points="100,20 160,50 100,80 40,50" fill="#4a5568" stroke="#2d3748" stroke-width="2"/>
+  <rect x="95" y="80" width="10" height="40" fill="#4a5568" stroke="#2d3748" stroke-width="2"/>
+  <rect x="85" y="120" width="30" height="5" fill="#4a5568" stroke="#2d3748" stroke-width="1" rx="2" ry="2"/>
+  
+  <!-- Book -->
+  <rect x="50" y="90" width="100" height="70" fill="#4299e1" stroke="#2b6cb0" stroke-width="2" rx="5" ry="5"/>
+  <path d="M50,95 C70,85 80,85 100,95 C120,85 130,85 150,95 L150,155 C130,145 120,145 100,155 C80,145 70,145 50,155 Z" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="1"/>
+  
+  <!-- Text -->
+  <text x="100" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#2d3748">SAGE RESEARCH</text>
+</svg>

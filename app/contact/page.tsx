@@ -127,10 +127,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-medium mb-1">Email</h3>
                     <a 
-                      href="mailto:info@sageresearch.edu" 
+                      href="mailto:rairishi934@gmail.com" 
                       className="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors"
                     >
-                      info@sageresearch.edu
+                      rairishi934@gmail.com
                     </a>
                   </div>
                 </div>
@@ -146,10 +146,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-medium mb-1">Phone</h3>
                     <a 
-                      href="tel:+1-555-123-4567" 
+                      href="tel:+91 9508300862" 
                       className="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors"
                     >
-                      +1 (555) 123-4567
+                      +91 9508300862
                     </a>
                   </div>
                 </div>

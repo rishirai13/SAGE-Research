@@ -174,32 +174,32 @@ export default function AboutPage() {
             >
               {[
                 {
-                  name: "Dr. Sarah Johnson",
+                  name: "Rishi Rai",
                   role: "Founder & CEO",
-                  bio: "Former professor with 15+ years of experience in educational research.",
+                  bio: "Rishi Rai is the Founder & CEO of Sage Research Education, a next-generation EdTech venture dedicated to turning curious minds into industry-ready innovators. With a background in Computer Science and a passion for bridging the gap between academic learning and real-world application, Rishi leads Sage with a vision to make high-quality, hands-on education accessible to all. He believes in transforming learning into a research-driven, project-based journey that empowers students not just to secure jobs, but to create solutions that shape the future.",
                 },
                 {
-                  name: "Michael Chen",
+                  name: "Kartikey",
                   role: "Chief Technology Officer",
                   bio: "Tech innovator with a passion for making research accessible through technology.",
                 },
                 {
-                  name: "Dr. Emily Rodriguez",
+                  name: "Ayush Rai",
                   role: "Research Director",
                   bio: "Specializes in curriculum development and assessment practices.",
                 },
                 {
-                  name: "David Kim",
+                  name: "Vikash",
                   role: "Head of User Experience",
                   bio: "Dedicated to creating intuitive and accessible platforms for educators.",
                 },
                 {
-                  name: "Dr. James Wilson",
+                  name: "Shubham Singh",
                   role: "Content Curator",
                   bio: "Expert in educational policy and implementation research.",
                 },
                 {
-                  name: "Lisa Patel",
+                  name: "Ashish Shukla",
                   role: "Community Manager",
                   bio: "Former teacher focused on building connections between researchers and practitioners.",
                 },

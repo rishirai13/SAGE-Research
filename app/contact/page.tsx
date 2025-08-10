@@ -165,9 +165,9 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-medium mb-1">Address</h3>
                     <p className="text-gray-600 dark:text-gray-400">
-                      123 Education Lane<br />
-                      Research Park, CA 94103<br />
-                      United States
+                      Badarpur<br />
+                      New Delhi, 110076<br />
+                      India
                     </p>
                   </div>
                 </div>

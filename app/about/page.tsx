@@ -83,7 +83,7 @@ export default function AboutPage() {
                 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 dark:from-white dark:to-gray-400"
                 variants={fadeUp}
               >
-                About SAGE Research
+                About SAGE 
               </motion.h1>
               <motion.p 
                 className="text-gray-600 text-lg md:text-xl dark:text-gray-300 max-w-2xl mx-auto"
@@ -176,7 +176,7 @@ export default function AboutPage() {
                 {
                   name: "Rishi Rai",
                   role: "Founder & CEO",
-                  bio: "Rishi Rai is the Founder & CEO of Sage Research Education, a next-generation EdTech venture dedicated to turning curious minds into industry-ready innovators. With a background in Computer Science and a passion for bridging the gap between academic learning and real-world application, Rishi leads Sage with a vision to make high-quality, hands-on education accessible to all. He believes in transforming learning into a research-driven, project-based journey that empowers students not just to secure jobs, but to create solutions that shape the future.",
+                  bio: "Rishi leads Sage with a vision to make hands-on education accessible to all. He believes in transforming learning into a project-based journey that empowers students not just to secure jobs, but to create solutions that shape the future.",
                 },
                 {
                   name: "Kartikey",

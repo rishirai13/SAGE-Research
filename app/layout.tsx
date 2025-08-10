@@ -16,10 +16,10 @@ const workSans = Work_Sans({
 })
 
 export const metadata = {
-  title: "SAGE Research - Educational Research Platform",
+  title: "SAGE Research – AI-Powered Educational Research & Learning Platform",
   description:
-    "Access thousands of peer-reviewed studies, articles, and resources to enhance your teaching and research.",
-    generator: 'v0.dev'
+    "Powered by our revolutionary Tutor AI, SAGE doesn’t just recommend content — it understands each student’s knowledge, identifies their gaps, and guides them on a personalized path to mastery.",
+  
 }
 
 export default function RootLayout({

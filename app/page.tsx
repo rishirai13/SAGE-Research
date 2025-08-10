@@ -159,12 +159,13 @@ const HeroSection = () => {
                 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
                 style={{ visibility: "hidden" }}
               >
-                Discover Educational Research That Matters
+                AI-Powered Research & Learning That Knows You
               </h1>
             </div>
             <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-              Access thousands of peer-reviewed studies, articles, and resources to enhance your teaching and
-              research.
+              Unlock thousands of peer-reviewed studies, expert articles, and resources — all guided by 
+  <span className="font-semibold">Tutor AI</span>, which understands what you know, spots your gaps, 
+  and creates a personalized learning path to mastery.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <Button size="lg" asChild>

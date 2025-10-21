@@ -1,7 +1,7 @@
 # 📚 Sage Educational Research
 
 <p align="center">
-  <img src="https://github.com/rishirai13/SAGE-Research/blob/928d4d8e164cb4085b2f20bce4a40b02b5333f62/sage.png" alt="Sage Research Preview" width="600"/>
+  <img src="https://github.com/rishirai13/SAGE-Research/blob/928d4d8e164cb4085b2f20bce4a40b02b5333f62/sage.png" alt="Sage Research Preview" width="700"/>
 </p>
 
 Discover and explore thousands of peer-reviewed educational research studies, articles, and expert insights with Sage — a personalized AI-powered platform that guides your learning journey by identifying knowledge gaps and curating tailored learning pathways.

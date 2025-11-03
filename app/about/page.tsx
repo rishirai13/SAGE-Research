@@ -113,12 +113,12 @@ export default function AboutPage() {
                 <h2 className="text-3xl font-bold tracking-tight">Our Mission</h2>
                 <div className="space-y-4 text-gray-600 dark:text-gray-300">
                   <p>
-                    At SAGE Research, we believe that access to high-quality educational research is essential for
+                    At SAGE Research, we believe that access to high-quality & applied education is essential for
                     advancing teaching practices and improving learning outcomes. Our mission is to connect educators,
-                    researchers, and students with the latest findings and insights in educational research.
+                    researchers, and students with the latest findings and insights of technology.
                   </p>
                   <p>
-                    We are committed to making research accessible, understandable, and applicable to real-world
+                    We are committed to making education accessible, understandable, and applicable to real-world
                     educational settings. By bridging the gap between research and practice, we aim to empower educators
                     to make evidence-based decisions that positively impact student learning.
                   </p>
@@ -149,7 +149,7 @@ export default function AboutPage() {
                   specialists, and dedicated support staff.
                 </p>
                 <p>
-                  Today, SAGE Research is recognized as a leading platform for educational research, trusted by
+                  Today, SAGE Research is recognized as a leading platform for education, trusted by
                   institutions, educators, and researchers around the globe. We continue to innovate and improve our
                   platform to better serve the educational community and advance the field of education.
                 </p>
@@ -176,7 +176,7 @@ export default function AboutPage() {
                 {
                   name: "Rishi Rai",
                   role: "Founder & CEO",
-                  bio: "Rishi leads Sage with a vision to make hands-on education accessible to all. He believes in transforming learning into a project-based journey that empowers students not just to secure jobs, but to create solutions that shape the future.",
+                  bio: "Rishi leads Sage with a vision to make hands-on education accessible to all.",
                 },
                 {
                   name: "Kartikey",
